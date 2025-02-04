@@ -1,7 +1,7 @@
 ## R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts
 
 <div align="center">
-  <img src="R2D2.jpg" alt="R2D2" width="600" />
+  <img src="R2D2.jpg" alt="R2D2" width="400" />
 </div>
 
 ### Abstract
