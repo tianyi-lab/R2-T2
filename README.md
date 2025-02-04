@@ -1,5 +1,9 @@
 ## R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts
 
+<div align="center">
+  <img src="R2D2.jpg" alt="R2D2" width="600" />
+</div>
+
 ### Abstract
 
 In large multimodal models (LMMs), the perception of non-language modalities (e.g., visual representations) is usually not on par with the large language models (LLMs)' powerful reasoning capabilities, deterring LMMs' performance on challenging downstream tasks. 
