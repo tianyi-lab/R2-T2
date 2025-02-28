@@ -89,7 +89,18 @@ with torch.no_grad():
 python evaluate.py --reference reference.json --eval CV-Bench --num_neighbors 5 --num_steps 10 --initial_lr 0.01 --final_lr 1e-5
 ```
 
-
+### Citation
+```
+@misc{li2025r2t2reroutingtesttimemultimodal,
+      title={R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts}, 
+      author={Zhongyang Li and Ziyue Li and Tianyi Zhou},
+      year={2025},
+      eprint={2502.20395},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2502.20395}, 
+}
+```
 
 ### Reference Datasets and Benchmarks
 
