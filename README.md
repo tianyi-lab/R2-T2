@@ -138,7 +138,9 @@ python evaluate.py --reference reference.json --eval CV-Bench --num_neighbors 5 
 
 [AI2D](https://paperswithcode.com/dataset/ai2d)
 
-[TextVQA ](https://textvqa.org/)
+[TextVQA](https://textvqa.org/)
+
+[PhysBench](https://huggingface.co/datasets/USC-GVL/PhysBench)
 
 ---
 
